@@ -1,0 +1,1 @@
+public record Metric(String host, int latency) { }
